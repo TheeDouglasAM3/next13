@@ -1,3 +1,10 @@
+// versão canary do next
+// export async function generateMetadata({ params }) {
+//   return {
+//     title: `Produto ${params.id}`,
+//   }
+// }
+
 interface ProductProps {
   params: {
     id: string
